@@ -12,6 +12,7 @@ O **Bot do Ciclo do Sono** é um bot que que criei para Discord desenvolvido em 
 
 ## Comandos
 
+- `!sleep_cycle` - Mostra uma lista de todos os comandos disponíveis e suas descrições.
 - `!hora_acordar HHhMM` - Receba sugestões de horários para dormir com base na hora em que você precisa acordar.
   - **Exemplo**: `!hora_acordar 09h00` ou `!hora_acordar 09:00`
 - `!hora_dormir HHhMM` - Receba sugestões de horários para acordar com base na hora em que você vai dormir.
